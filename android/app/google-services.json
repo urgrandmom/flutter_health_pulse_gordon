@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44530370244",
+    "project_id": "healthpulse-bf368",
+    "storage_bucket": "healthpulse-bf368.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44530370244:android:1694232f89a55619d86b91",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJfX851MwIMmCaRTMg6JGWWd6pI8EfCHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
