@@ -1,16 +1,16 @@
-# project
+# Flutter Health Pulse
 
-A new Flutter project.
+A Flutter mobile application designed to manage personal health logs, medication tracking, and emergency contacts using Firebase services.
 
-## Getting Started
+## Features
+* **Health Logbook**: Record and track daily health entries and logs.
+* **Medication Tracker**: Manage medication schedules and dosages.
+* **Emergency Contacts**: Quick access to essential emergency contact numbers.
+* **User Profiles**: User authentication and personal profile management via Firebase.
+* **Weather Service**: Integrated weather updates within the app interface.
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+* **Frontend**: Flutter / Dart
+* **Backend**: Firebase Firestore & Authentication
+* state management : Provider
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
