@@ -1,0 +1,14 @@
+{
+"health_logs/gC5Oda6dqUaDwzF3vmki": {"type":"Steps","userId":"ExBA8n34I6ZT68UQJXbdu2nVa2X2","value":"5000","timestamp":{"__datatype__":"timestamp","value":{"_seconds":1786931469,"_nanoseconds":663000000}}},
+"health_logs/us8G84ygIxiqwN6y3AUg": {"type":"Steps","userId":"GGjLc77rGZNNebyz2BOMteDHyOx1","value":"10000","timestamp":{"__datatype__":"timestamp","value":{"_seconds":1786711744,"_nanoseconds":223000000}}},
+"health_logs/4dzZragL1R1XqIDqJ81e": {"type":"Steps","userId":"GGjLc77rGZNNebyz2BOMteDHyOx1","value":"15000","timestamp":{"__datatype__":"timestamp","value":{"_seconds":1786776658,"_nanoseconds":971000000}}},
+"health_logs/0UARYr6eWGZeYeWJoLZ0": {"type":"Steps","userId":"w18SIzs9Z0b14KUBpZYMOOVcSLk1","value":"1500","timestamp":{"__datatype__":"timestamp","value":{"_seconds":1786763773,"_nanoseconds":311000000}}},
+"medications/Y5VrEtrqpZD2j8U5kLoF": {"dosage":"1 tablet at 8 am","name":"pandaol","userId":"ExBA8n34I6ZT68UQJXbdu2nVa2X2","createdAt":{"__datatype__":"timestamp","value":{"_seconds":1786931440,"_nanoseconds":424000000}},"isTaken":true,"lastTaken":{"__datatype__":"timestamp","value":{"_seconds":1786931445,"_nanoseconds":424000000}}},
+"medications/GqRx388yCc356rih4PTt": {"dosage":"2 Tablet every 8 AM","name":"Panadol","userId":"GGjLc77rGZNNebyz2BOMteDHyOx1","createdAt":{"__datatype__":"timestamp","value":{"_seconds":1786777160,"_nanoseconds":198000000}},"isTaken":false,"lastTaken":null},
+"medications/0feK6EjOeCurTpzSujpu": {"dosage":"1 Tablet","name":"Panadol","time":"12:00pm","userId":"w18SIzs9Z0b14KUBpZYMOOVcSLk1","createdAt":{"__datatype__":"timestamp","value":{"_seconds":1786763762,"_nanoseconds":976000000}}},
+"users/ExBA8n34I6ZT68UQJXbdu2nVa2X2": {"caregiverPhone":"98765432","caregiverName":"marcus","name":"jake","email":"gordon@healthpulse.sg"},
+"users/GGjLc77rGZNNebyz2BOMteDHyOx1": {"email":"user@healthpulse.sg","caregiverPhone":"98765432","caregiverName":"Marcus","name":"stephen"},
+"users/w18SIzs9Z0b14KUBpZYMOOVcSLk1": {"email":"mark@healthpulse.sg","name":"Mark"},
+"users/jnxfGu92e9MCveUDcWEEEEgqji73": {"email":"joyce@healthpulse.sg","name":"joyce"},
+"metadata": {"timestamp":"2026-08-19_00-08-35","ref":"__ROOT__"}
+}
